@@ -1,0 +1,14 @@
+.my-form {
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.my-title {
+  color: white;
+  margin: 20px;
+}
